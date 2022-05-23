@@ -1,0 +1,25 @@
+#root{
+    display: flex;
+        height: 100vh;
+}
+.left-side{
+    background: red;
+    width: 40%;
+}
+.right-side {
+    background: blue;
+    width: 60%;
+}
+.main-title{
+    text-align: center;
+    font-size: 38px;
+}
+.book-list{
+    list-style: none;
+    padding: 0;
+}
+.button {
+    padding: 10px 40px;
+    display: block;
+    margin: 0 auto;
+}
